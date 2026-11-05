@@ -34,5 +34,4 @@ A workout planner for walking into the gym with limited time and no plan. It gen
 
 ## Further work
 
-- **[Airflow orchestration](https://alseginy.com/work/airflow-lab.html):** A technical demonstration I built for my Astronomer sales engineering interview process. Includes scheduling decisions, sample code and explicit execution limits.
 - **[Sprain.AI](https://github.com/nooralseginy/Sprain-AI):** An educational rehab tracker with predefined protocols, progress scoring and a photo log stored in the browser. [Live app →](https://sprain-ai.vercel.app)
